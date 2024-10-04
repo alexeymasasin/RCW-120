@@ -1,9 +1,9 @@
 {
-	"name": "amthemes",
-	"displayName": "A.M. Themes",
+	"name": "rcw-120",
+	"displayName": "RCW-120",
 	"description": "",
-	"icon": "images/gradient.png",
-	"version": "0.2.0",
+	"icon": "./images/rounded_corners.png",
+	"version": "0.2.1",
 	"engines": {
 		"vscode": "^1.92.0"
 	},
@@ -26,7 +26,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "RCW 120 V1 - A.M.",
+				"label": "RCW-120 V1 by @alexeymasasin",
 				"uiTheme": "vs-dark",
 				"path": "./themes/rcw-120-v1.json"
 			}
