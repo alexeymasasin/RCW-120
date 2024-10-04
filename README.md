@@ -61,10 +61,10 @@
   </tr>
   <tr>
     <td>Shallow Purple</td>
-    <td>#1A1825</td>
-    <td>26, 24, 37</td>
+    <td>#211E2f</td>
+    <td>33, 30, 47</td>
     <td>Borders</td>
-    <td align="center"><img src="https://placeholder.pics/svg/40x30/1A1825" /></td>
+    <td align="center"><img src="https://placeholder.pics/svg/40x30/211E2f" /></td>
   </tr>
   <tr>
     <td>Mid Purple</td>
@@ -110,9 +110,17 @@
   </tr>
   <tr>
     <td>Pink</td>
-    <td>#54BEBD</td>
+    <td>#D874E2</td>
     <td>216, 116, 226</td>
     <td>Quinary</td>
     <td align="center"><img src="https://placeholder.pics/svg/40x30/D874E2" /></td>
   </tr>
+  <tr>
+    <td>Red</td>
+    <td>#C82540</td>
+    <td>200, 37, 64</td>
+    <td>Senary</td>
+    <td align="center"><img src="https://placeholder.pics/svg/40x30/C82540" /></td>
+  </tr>
+
 </table>
