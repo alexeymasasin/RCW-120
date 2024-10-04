@@ -1,0 +1,35 @@
+{
+	"name": "amthemes",
+	"displayName": "A.M. Themes",
+	"description": "",
+	"icon": "images/gradient.png",
+	"version": "0.2.0",
+	"engines": {
+		"vscode": "^1.92.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alexeymasasin/am-themes"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"themes",
+		"dark theme",
+		"dark themes",
+		"dark",
+		"purple"
+	],
+	"publisher": "alexeymasasin",
+	"contributes": {
+		"themes": [
+			{
+				"label": "RCW 120 V1 - A.M.",
+				"uiTheme": "vs-dark",
+				"path": "./themes/rcw-120-v1.json"
+			}
+		]
+	}
+}
