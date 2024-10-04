@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexeymasasin/amthemes/master/images/gradient.png" alt="A.M. Themes - Logo" width="100px" /> 
+  <img src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/logos/rounded_corners.png" alt="@alexeymasasin - Logo" width="120px" /> 
 </p>
 
-<h3 align="center">A.M. Themes</h3>
+<h3 align="center">RCW-120</h3>
 <p align="center">Improve your experience with your favorite apps</p>
 
 <p align="center">
-  <img alt="preview" src="https://github.com/alexeymasasin/am-themes/blob/master/images/screenshots/RCW-120-V1/main.png" width="100%" />
+  <img alt="preview" src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/vscode/screenshots/RCW-120-V1/main.png" width="100%" />
 </p>
 
 ### General Usage
@@ -17,7 +17,7 @@
 
 <table>
   <td align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.amthemes"><img width="24px" src="https://code.visualstudio.com/assets/images/code-stable.png"/></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120"><img width="24px" src="https://code.visualstudio.com/assets/images/code-stable.png"/></a>
     <br/>
     <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.amthemes">Visual Studio Code</a>
   </td>
@@ -29,9 +29,10 @@
   <summary>Visual Studio Code</summary>
     <br>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/alexeymasasin/amthemes/master/images/screenshots/RCW-120-V1/ts.png" alt="RCW-120 V1 - JavaScript" width="40%" /> &nbsp; &nbsp;
-      <img src="https://raw.githubusercontent.com/alexeymasasin/amthemes/master/images/screenshots/RCW-120-V1/json.png" alt="RCW-120 V1 - JSON" width="40%" />
-      <img src="https://raw.githubusercontent.com/alexeymasasin/amthemes/master/images/screenshots/RCW-120-V1/md.png" alt="RCW-120 V1 - MD" width="40%" />
+      <img src="https://github.com/alexeymasasin/RCW-120/blob/main/images/vscode/screenshots/RCW-120-V1/ts.png" alt="RCW-120 V1 - TypeScript" width="40%" /> &nbsp; &nbsp;
+      <img src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/vscode/screenshots/RCW-120-V1/json.png" alt="RCW-120 V1 - JSON" width="40%" />
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/vscode/screenshots/RCW-120-V1/md.png" alt="RCW-120 V1 - MD" width="40%" />
     </p>
 </details>
 
@@ -95,32 +96,32 @@
     <td align="center"><img src="https://placeholder.pics/svg/40x30/915FFF" /></td>
   </tr>
   <tr>
-    <td>Fountain Blue</td>
-    <td>#54BEBD</td>
-    <td>84, 190, 189</td>
-    <td>Tertiary</td>
-    <td align="center"><img src="https://placeholder.pics/svg/40x30/54BEBD" /></td>
-  </tr>
-  <tr>
-    <td>Golden</td>
-    <td>#F7CB60</td>
-    <td>247, 203, 96</td>
-    <td>Quaternary</td>
-    <td align="center"><img src="https://placeholder.pics/svg/40x30/F7CB60" /></td>
-  </tr>
-  <tr>
     <td>Pink</td>
     <td>#D874E2</td>
     <td>216, 116, 226</td>
-    <td>Quinary</td>
+    <td>Tertiary</td>
     <td align="center"><img src="https://placeholder.pics/svg/40x30/D874E2" /></td>
   </tr>
   <tr>
     <td>Red</td>
     <td>#C82540</td>
     <td>200, 37, 64</td>
-    <td>Senary</td>
+    <td>Quaternary</td>
     <td align="center"><img src="https://placeholder.pics/svg/40x30/C82540" /></td>
+  </tr>
+  <tr>
+    <td>Golden</td>
+    <td>#F7CB60</td>
+    <td>247, 203, 96</td>
+    <td>Quinary</td>
+    <td align="center"><img src="https://placeholder.pics/svg/40x30/F7CB60" /></td>
+  </tr>
+  <tr>
+    <td>Fountain Blue</td>
+    <td>#54BEBD</td>
+    <td>84, 190, 189</td>
+    <td>Senary</td>
+    <td align="center"><img src="https://placeholder.pics/svg/40x30/54BEBD" /></td>
   </tr>
 
 </table>
