@@ -1,15 +1,15 @@
 {
 	"name": "rcw-120",
-	"displayName": "RCW-120",
-	"description": "",
+	"displayName": "RCW-120 Theme",
+	"description": "Improve your experience with your favorite apps with this dark RCW-120 theme!",
 	"icon": "./images/rounded_corners.png",
-	"version": "0.2.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.92.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/alexeymasasin/am-themes"
+		"url": "https://github.com/alexeymasasin/RCW-120/tree/main/packages/vscode"
 	},
 	"categories": [
 		"Themes"
@@ -26,7 +26,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "RCW-120 V1 by @alexeymasasin",
+				"label": "RCW-120 V1 - @alexeymasasin",
 				"uiTheme": "vs-dark",
 				"path": "./themes/rcw-120-v1.json"
 			}
