@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/logos/rounded_corners.png" alt="@alexeymasasin - Logo" width="120px" /> 
 </p>
+<h3 align="center">RCW-120</h3>
 
 <p align="center">
-  <img alt="preview" src="$preview" width="100%" />
+  <img alt="preview" src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/alacritty/preview.png" width="50%" />
 </p>
 
 ### Installation
@@ -18,6 +19,6 @@
 ### Screenshots
 
   <p align="center">
-      <img src="$bspwm" alt="RCW-120 V1 - bspwm" width="40%" /> &nbsp; &nbsp;
-      <img src="$log" alt="RCW-120 V1 - log" width="40%" />
+      <img src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/alacritty/vim.jpg" alt="RCW-120 V1 - bspwm" width="40%" /> &nbsp; &nbsp;
+      <img src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/alacritty/log.jpg" alt="RCW-120 V1 - log" width="40%" />
   </p>
