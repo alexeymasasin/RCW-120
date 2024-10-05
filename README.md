@@ -9,21 +9,49 @@
   <img alt="preview" src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/vscode/screenshots/RCW-120-V1/main.png" width="100%" />
 </p>
 
-### General Usage
+## General Usage
 
 > Do not download any of my themes from third-party resources, I am not responsible for the consequences of this! <br/> Use only the links given in this repository down below or download theme files directly from it
+
+## Products
 
 ### IDEs & Code Editors
 
 <table>
-  <td align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120"><img width="24px" src="https://code.visualstudio.com/assets/images/code-stable.png"/></a>
-    <br/>
-    <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.amthemes">Visual Studio Code</a>
-  </td>
+  <tr>
+    <td align="center">
+      <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120"><img width="36px" src="https://code.visualstudio.com/assets/images/code-stable.png"/></a>
+      <br/>
+      <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120">Visual Studio Code</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alexeymasasin/RCW-120/tree/main/packages/vscode">Repository</a>
+    </td>
+  </tr>
 </table>
 
-### Screenshots
+### Terminals
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alexeymasasin/RCW-120/tree/main/packages/alacritty"><img width="42px" src="https://raw.githubusercontent.com/alacritty/alacritty/master/extra/logo/compat/alacritty-term%2Bscanlines.png"/></a>
+      <br />
+      Alacritty
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alexeymasasin/RCW-120/tree/main/packages/alacritty">Repository</a>
+    </td>
+  </tr>
+</table>
+
+## Screenshots
 
 <details>
   <summary>Visual Studio Code</summary>
@@ -36,7 +64,7 @@
     </p>
 </details>
 
-### Color Palette
+## Color Palette
 
 <table>
   <tr>
