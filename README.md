@@ -51,6 +51,24 @@
   </tr>
 </table>
 
+### Others
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alexeymasasin/RCW-120/tree/main/packages/rofi"><img width="42px" src="https://avatars.githubusercontent.com/u/48837683?s=200&v=4"/></a>
+      <br />
+      Rofi
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alexeymasasin/RCW-120/tree/main/packages/rofi">Repository</a>
+    </td>
+  </tr>
+</table>
+
 ## Screenshots
 
 <details>
@@ -62,6 +80,14 @@
       <br /><br />
       <img src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/vscode/screenshots/RCW-120-V1/md.png" alt="RCW-120 V1 - MD" width="40%" />
     </p>
+</details>
+
+<details>
+  <summary>Alacritty</summary>
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/alexeymasasin/RCW-120/refs/heads/main/images/alacritty/preview.png" alt="RCW-120 V1 - Alacritty preview" width="50%" />
+  </p>
 </details>
 
 ## Color Palette
