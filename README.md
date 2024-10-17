@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120"><img width="36px" src="https://code.visualstudio.com/assets/images/code-stable.png"/></a>
+      <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120"><img width="36px" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png"/></a>
       <br/>
       <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120">Visual Studio Code</a>
     </td>
