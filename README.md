@@ -6,8 +6,8 @@
 <p align="center">
   <sub>Improve your experience with your favorite apps</sub>
   <br><br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme"><img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/alexeymasasin.rcw-120.svg?style=for-the-badge&labelColor=111018&color=53ffb1"></a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme"><img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/alexeymasasin.rcw-120.svg?style=for-the-badge&labelColor=111018&color=53ffb1"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120"><img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/alexeymasasin.rcw-120.svg?style=for-the-badge&labelColor=111018&color=53ffb1"></a>
+  <a href="https://https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120"><img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/alexeymasasin.rcw-120.svg?style=for-the-badge&labelColor=111018&color=53ffb1"></a>
   <a href="https://marketplace.visualstudio.com/items?itemName=alexeymasasin.rcw-120"><img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/alexeymasasin.rcw-120.svg?style=for-the-badge&labelColor=111018&color=53ffb1"></a>
 </p>
 
